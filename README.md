@@ -4,16 +4,19 @@ I am an undergrad computer science student at the University of Colorado Boulder
 
 ## Projects
 
+- [YouIn](https://github.com/BigBeanBoy45/HackCU12-Project)
 - [BoringPhoneInterface](https://github.com/AK8506/BoringPhoneInterface)
 - [Powder Junkie](https://github.com/AK8506/CSCI-3308-Project)
 
 ## Skills and Experience:
 * Java
 * JavaScript
+* React
+* MongoDB
 * PostgreSQL
 * C++
 * Swift
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK8506&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigBeanBoy45&layout=compact&theme=dark)
 
